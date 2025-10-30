@@ -2,6 +2,10 @@
 
 https://github.com/Orion-zhen
 
+# Because I was lazy and didn't modify it, I recommend using this script to automatically modify the configuration file:
+
+https://github.com/win10ogod/LLM-distillation-scripts/blob/main/regen_llm_config.py
+
 # LLM Distillation Scripts
 
 This repository provides a set of **Python scripts** for performing **Large Language Model (LLM) distillation**, including **Universal SVD-LoRA Distillation** for both dense and Mixture-of-Experts (MoE) architectures.
