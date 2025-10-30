@@ -18,7 +18,7 @@ What's new in v1.1
   and additionally recognizes Qwen-style `mlp.experts` naming.
 
 Author: Adapted from a MoE-only baseline provided by the user.
-License: MIT
+License: Apache 2.0
 """
 import os
 import re
