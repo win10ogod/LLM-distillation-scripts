@@ -1,3 +1,7 @@
+# Thanks to Orion-zhen for providing the test script:
+
+https://github.com/Orion-zhen
+
 # LLM Distillation Scripts
 
 This repository provides a set of **Python scripts** for performing **Large Language Model (LLM) distillation**, including **Universal SVD-LoRA Distillation** for both dense and Mixture-of-Experts (MoE) architectures.
